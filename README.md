@@ -14,6 +14,6 @@
 ```
 
 ## 参考
-鸿蒙rn官方文档 https://gitee.com/openharmony-sig/ohos_react_native/tree/0.72.5-ohos-5.0-release/docs/zh-cn
-React Native OpenHarmony 三方库说明文档 https://react-native-oh-library.github.io/usage-docs
-React Native OpenHarmony 三方库开发文档 https://react-native-oh-library.github.io/doc
+- 鸿蒙rn官方文档 https://gitee.com/openharmony-sig/ohos_react_native/tree/0.72.5-ohos-5.0-release/docs/zh-cn
+- React Native OpenHarmony 三方库说明文档 https://react-native-oh-library.github.io/usage-docs
+- React Native OpenHarmony 三方库开发文档 https://react-native-oh-library.github.io/doc
